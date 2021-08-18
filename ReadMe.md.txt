@@ -7,3 +7,6 @@ Fruits:
 Vegetables:
 - Onions
 - Tomato
+- Spinach
+- Beans
+- Cauliflower
