@@ -10,7 +10,6 @@ Vegetables:
 - Curry leaves
 - Mint
 - Spinach
-- Beans
 - Cauliflower
 - Cabbage
 - Carrot
