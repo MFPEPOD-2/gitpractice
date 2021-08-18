@@ -9,3 +9,7 @@ Vegetables:
 - Tomato
 - Curry leaves
 - Mint
+- Spinach
+- Cauliflower
+- Cabbage
+- Carrot
