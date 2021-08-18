@@ -5,3 +5,5 @@ Fruits:
 - Mango
 
 Vegetables:
+- Onions
+- Tomato
