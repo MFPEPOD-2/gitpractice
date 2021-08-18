@@ -12,3 +12,5 @@ Vegetables:
 - Spinach
 - Beans
 - Cauliflower
+- Cabbage
+- Carrot
