@@ -7,6 +7,8 @@ Fruits:
 Vegetables:
 - Onions
 - Tomato
+- Curry leaves
+- Mint
 - Spinach
 - Beans
 - Cauliflower
